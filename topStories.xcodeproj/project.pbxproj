@@ -14,6 +14,7 @@
 		5B8F586620F502DF003698F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B8F586420F502DF003698F5 /* LaunchScreen.storyboard */; };
 		5B8F587120F502DF003698F5 /* topStoriesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8F587020F502DF003698F5 /* topStoriesTests.swift */; };
 		5B8F587C20F502DF003698F5 /* topStoriesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8F587B20F502DF003698F5 /* topStoriesUITests.swift */; };
+		5B8F588A20F5053A003698F5 /* SwiftyJSON-master in Resources */ = {isa = PBXBuildFile; fileRef = 5B8F588920F5053A003698F5 /* SwiftyJSON-master */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5B8F587720F502DF003698F5 /* topStoriesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = topStoriesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B8F587B20F502DF003698F5 /* topStoriesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = topStoriesUITests.swift; sourceTree = "<group>"; };
 		5B8F587D20F502DF003698F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B8F588920F5053A003698F5 /* SwiftyJSON-master */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "SwiftyJSON-master"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 			children = (
 				5B8F587B20F502DF003698F5 /* topStoriesUITests.swift */,
 				5B8F587D20F502DF003698F5 /* Info.plist */,
+				5B8F588920F5053A003698F5 /* SwiftyJSON-master */,
 			);
 			path = topStoriesUITests;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B8F588A20F5053A003698F5 /* SwiftyJSON-master in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
